@@ -8,7 +8,7 @@ int main()
     analyse(data, buffer);
     print_words(data);
     search_url(buffer);
-
+    system("pause");
     return 0;
     
     
